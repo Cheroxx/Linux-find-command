@@ -18,7 +18,7 @@ Example: find / secretfile.txt
 
 add the -type d flag to search for directories or -type f to find files
 
-Example: find / -type d secretfile.txt
+Example: find / -type f secretfile.txt
 
 add -name (case sensitive) or -iname (case insensitive) to specify a name or pattern to look for. You can use wildcards too, just make sure to wrap them in " "
 
